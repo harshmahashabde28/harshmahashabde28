@@ -27,3 +27,10 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
+
+## 📊 GitHub Analytics & Activity
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZ3MDh5cW5waHR2Z2VoMXI1cTN6cmJ3dWU4d2lnY21kb3B4dHdhZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NENOgw8mgH0NW/giphy.gif" alt="Activity GIF" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshmahashabde28&show_icons=true&hide_border=true&layout=compact&bg_color=050D1A&title_color=408BD4&text_color=A0B5CC&icon_color=408BD4" alt="GitHub Stats" height="170" />
+</div>
