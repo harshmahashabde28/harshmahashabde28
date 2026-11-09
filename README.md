@@ -2,7 +2,7 @@
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,45:0F172A,72:1D4ED8,100:38BDF8&height=270&section=header&text=HARSH&fontSize=76&fontColor=F8FAFC&stroke=3B82F6&strokeWidth=1&animation=fadeIn" alt="Harsh" />
 
-  <samp>computer science @ mits, gwalior</samp>
+  <samp>computer science</samp>
   <br>
   <samp>c++ · systems · web</samp>
 
